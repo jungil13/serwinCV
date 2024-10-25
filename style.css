@@ -58,14 +58,14 @@ h1 {
 }
 
 .social-links {
-  margin-top: 10px; /* Add some space */
+  margin-top: 10px; 
 }
 
 .social-links a {
-  color: white; /* Change icon color */
-  margin: 0 10px; /* Space between icons */
-  font-size: 20px; /* Icon size */
-  text-decoration: none; /* Remove underline */
+  color: white; 
+  margin: 0 10px; 
+  font-size: 20px; 
+  text-decoration: none; 
 }
 
 .right-section {
@@ -85,15 +85,15 @@ h1 {
 }
 
 .toggle-button {
-  background-color: #00ccff; /* Button color */
-  color: white; /* Text color */
-  border: none; /* Remove border */
-  border-radius: 5px; /* Rounded corners */
-  padding: 10px 15px; /* Button padding */
-  cursor: pointer; /* Change cursor to pointer */
-  display: flex; /* Align icon and text */
-  align-items: center; /* Center vertically */
-  margin-bottom: 20px; /* Space below button */
+  background-color: #00ccff; 
+  color: white; 
+  border: none; 
+  border-radius: 5px; 
+  padding: 10px 15px; 
+  cursor: pointer; 
+  display: flex; 
+  align-items: center; 
+  margin-bottom: 20px;
 }
 
 .details {
@@ -130,11 +130,11 @@ ul.major-list span {
 /* Responsive Styles */
 @media (max-width: 768px) {
   .container {
-    flex-direction: column; /* Stack the sections vertically */
+    flex-direction: column; 
   }
 
   .left-section, .right-section {
-    width: 100%; /* Full width for both sections */
+    width: 100%; 
   }
 
   .right-section {
